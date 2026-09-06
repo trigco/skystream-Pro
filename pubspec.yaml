@@ -126,6 +126,14 @@ flutter:
   assets:
     - assets/plugins/
     - assets/images/
+      fonts:
+    - family: AnekBangla
+      fonts:
+        - asset: assets/fonts/AnekBangla-Regular.ttf
+
+    - family: HindSiliguri
+      fonts:
+        - asset: assets/fonts/Hind Siliguri Regular.ttf
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
 
