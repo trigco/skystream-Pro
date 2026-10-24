@@ -126,7 +126,8 @@ flutter:
   assets:
     - assets/plugins/
     - assets/images/
-      fonts:
+
+  fonts:
     - family: AnekBangla
       fonts:
         - asset: assets/fonts/AnekBangla-Regular.ttf
